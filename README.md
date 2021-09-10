@@ -3,4 +3,4 @@
   
 **Materia:** Topicos Avanzados de Programacion
   
-  ![Logo tec](C:/users/Gerardo/pictures/descarga.jpg)
+  ![Logo tec](C:/Users/Gerardo/pictures/descarga.jpg)
